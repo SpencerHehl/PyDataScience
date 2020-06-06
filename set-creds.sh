@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/spencer/PersonalDev/archerfrs-test-4cedf20be87c.json"
